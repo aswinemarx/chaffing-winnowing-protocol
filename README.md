@@ -253,20 +253,9 @@ CHAFFING & WINNOWING PROTOCOL DEMONSTRATION
 - **HMAC**: RFC 2104 - HMAC: Keyed-Hashing for Message Authentication
 - **SHA-256**: FIPS 180-4 - Secure Hash Standard
 
-## License
-
-MIT License - See LICENSE file for details
-
-## Contributing
-
-Contributions welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request with description
-
 ## Author
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [ae4704@srmist.edu.in](mailto:ae4704@srmist.edu.in)
 
 ## Disclaimer
 
